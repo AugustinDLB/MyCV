@@ -1,0 +1,42 @@
+li, p {
+    color : white;
+    font-size: 1em;
+}
+
+.main_title {
+    color : white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    font-size: 1.2em;
+}
+
+.hi {
+    color : rgb(126, 3, 3);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-size: 1em;
+}
+
+body {
+    background-image: url(images/daniil-silantev-ou_9KZ6BJ-0-unsplash.jpg);
+    background-size:contain;
+    /* background: linear-gradient(90deg, #0F2027, #203A43, #2C5364) */
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI';
+    font-size: 3em;
+    font-weight: 700;
+}
+
+
+h2 {
+    font-size: 2em;
+    color : white
+}
+
+#personalphoto {
+    width: 10%;
+    height: 10%
+}
